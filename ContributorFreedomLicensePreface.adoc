@@ -1,0 +1,11 @@
+= Preface
+Peter Lawrey
+2023-07-02
+
+This software is licensed under the terms of the Apache License, Version 2.0. The license is applicable to individual developers who have the liberty to contribute to the software. It is designed to foster an open and collaborative environment where innovation and improvement are encouraged.
+
+In the context of organizations utilizing this software, it is imperative that they grant their employees the freedom to contribute to the software's development. The Apache 2.0 license is predicated on the principle of open contribution, and as such, organizations are expected to uphold this principle by allowing their developers the freedom to contribute.
+
+However, in situations where there are restrictions that prevent developers from contributing, whether they are legal, contractual, or otherwise, it is necessary to obtain written consent from the copyright holder. This is to ensure that the rights of all parties are respected and that the principles of open source contribution are upheld.
+
+Please note that this preface is a summary of the Apache 2.0 license and does not replace its full text. For a complete understanding of your rights and responsibilities under this license, please refer to the full text of the Apache License, Version 2.0.
